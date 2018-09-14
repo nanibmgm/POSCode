@@ -1,0 +1,6 @@
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\POS.Service.Client.FacadeBootstrapper.dll
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\POS.Service.Client.FacadeBootstrapper.pdb
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\obj\Debug\POS.Service.Client.FacadeBootstrapper.csprojResolveAssemblyReference.cache
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\obj\Debug\POS.Service.Client.FacadeBootstrapper.csproj.CoreCompileInputs.cache
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\obj\Debug\POS.Service.Client.FacadeBootstrapper.dll
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\obj\Debug\POS.Service.Client.FacadeBootstrapper.pdb

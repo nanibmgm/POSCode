@@ -1,0 +1,13 @@
+D:\Project\POS\POS\bin\Debug\POS.exe.config
+D:\Project\POS\POS\bin\Debug\POS.exe
+D:\Project\POS\POS\bin\Debug\POS.pdb
+D:\Project\POS\POS\bin\Debug\POS.Models.dll
+D:\Project\POS\POS\bin\Debug\EntityFramework.dll
+D:\Project\POS\POS\bin\Debug\POS.Models.pdb
+D:\Project\POS\POS\bin\Debug\EntityFramework.xml
+D:\Project\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+D:\Project\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\Project\POS\POS\obj\Debug\POS.exe
+D:\Project\POS\POS\obj\Debug\POS.pdb
+D:\Project\POS\POS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\POS\POS\bin\Debug\EntityFramework.SqlServer.xml

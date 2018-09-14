@@ -1,0 +1,8 @@
+D:\POS\POS\POS.Service.Client.FacadeContracts\bin\Debug\POS.Service.Client.FacadeContracts.dll
+D:\POS\POS\POS.Service.Client.FacadeContracts\bin\Debug\POS.Service.Client.FacadeContracts.pdb
+D:\POS\POS\POS.Service.Client.FacadeContracts\bin\Debug\POS.Service.Client.DataContracts.dll
+D:\POS\POS\POS.Service.Client.FacadeContracts\bin\Debug\POS.Service.Client.DataContracts.pdb
+D:\POS\POS\POS.Service.Client.FacadeContracts\obj\Debug\POS.Service.Client.FacadeContracts.csprojResolveAssemblyReference.cache
+D:\POS\POS\POS.Service.Client.FacadeContracts\obj\Debug\POS.Service.Client.FacadeContracts.csproj.CoreCompileInputs.cache
+D:\POS\POS\POS.Service.Client.FacadeContracts\obj\Debug\POS.Service.Client.FacadeContracts.dll
+D:\POS\POS\POS.Service.Client.FacadeContracts\obj\Debug\POS.Service.Client.FacadeContracts.pdb

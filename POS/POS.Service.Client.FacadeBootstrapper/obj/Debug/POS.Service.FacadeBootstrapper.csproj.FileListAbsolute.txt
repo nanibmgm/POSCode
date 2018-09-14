@@ -1,0 +1,17 @@
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\POS.Service.Client.FacadeBootstrapper.dll
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\POS.Service.Client.FacadeBootstrapper.pdb
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\obj\Debug\POS.Service.FacadeBootstrapper.csproj.CoreCompileInputs.cache
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\obj\Debug\POS.Service.Client.FacadeBootstrapper.dll
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\obj\Debug\POS.Service.Client.FacadeBootstrapper.pdb
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\AutoMapper.dll
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\POS.Core.Models.dll
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\POS.Service.Client.DataContracts.dll
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\System.ValueTuple.dll
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\EntityFramework.dll
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\POS.Core.Models.pdb
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\POS.Service.Client.DataContracts.pdb
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\AutoMapper.pdb
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\AutoMapper.xml
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\System.ValueTuple.xml
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\bin\Debug\EntityFramework.xml
+D:\POS\POS\POS.Service.Client.FacadeBootstrapper\obj\Debug\POS.Service.FacadeBootstrapper.csprojResolveAssemblyReference.cache

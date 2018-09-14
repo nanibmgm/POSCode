@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D6ACC26E-17FD-4EAF-8EA6-2F98D7A2C0E7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>POS.Service.Client.Facade</RootNamespace>
+    <AssemblyName>POS.Service.Client.Facade</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=6.2.2.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.6.2.2\lib\net45\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ProductFacade.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\POS.BLL.Contracts\POS.BLL.Contracts.csproj">
+      <Project>{3A1F0974-E810-4BA7-B0A7-75B4C87AD8C3}</Project>
+      <Name>POS.BLL.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\POS.BLL\POS.BLL.csproj">
+      <Project>{2DE3C36F-C9B7-4CD6-8E58-F58C07191295}</Project>
+      <Name>POS.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\POS.Core.Models\POS.Core.Models.csproj">
+      <Project>{6740ACE1-214D-4736-8EE2-F77CD2A00A21}</Project>
+      <Name>POS.Core.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\POS.Service.Client.DataContracts\POS.Service.Client.DataContracts.csproj">
+      <Project>{B2519128-E797-43A7-AC33-A951EEEA652F}</Project>
+      <Name>POS.Service.Client.DataContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\POS.Service.Client.FacadeContracts\POS.Service.FacadeContracts.csproj">
+      <Project>{9A110314-D0E6-4040-A4A8-878C4014A5CC}</Project>
+      <Name>POS.Service.FacadeContracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
